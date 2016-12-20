@@ -1,0 +1,18 @@
+include/*
+
+.clang_complete
+
+*.gch
+
+logs/*
+
+*.out
+
+# GNU GLOBAL giles
+*TAG*
+GPATH
+BROWSE
+include*
+
+$ log files
+protect/logs/*
